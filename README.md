@@ -41,3 +41,23 @@ https://rdflib.dev/pyLODE/examples/ontpub/minimal.html
 OWLReady2 - Managing Ontologies with Python.
 https://owlready2.readthedocs.io/en/latest/onto.html
 
+Association for Computing Machinery - Advancing Computing as a Science & Profession.
+https://www.acm.org/
+
+Scopus Preview - Scopus offers free features to non-subscribed users as Scopus Preview. Researchers use Scopus Preview to assist with research, such as searching for authors and learning more about Scopus content coverage and source metrics.
+https://www.scopus.com/home.uri
+
+Google Search about Web of Science.
+https://www.google.com/search?client=ubuntu-sn&channel=fs&q=web+of+sciente
+
+ICORE Conference Portal - CORE rankings is now an international collaboration named ICORE.
+https://portal.core.edu.au/conf-ranks/?search=graph&by=all&source=CORE2023&sort=atitle&page=1
+
+SJR - SJR Scimago Journal & Country Rank.
+https://www.scimagojr.com/
+
+ICML 2025 - Forty-Second International Conference on Machine Learning.
+https://icml.cc/
+
+International Conference on Machine Learning - PMLR - Proceedings of Machine Learning Research.
+https://proceedings.mlr.press/v235/xu24q.html
