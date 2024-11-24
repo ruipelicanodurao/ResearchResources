@@ -104,8 +104,6 @@ https://owlready2.readthedocs.io/en/latest/onto.html
 
 https://rdflib.dev/pyLODE/examples/ontpub/minimal.html
 
-file:///home/ruidurao/Transfer%C3%AAncias/test_ttl_viewer.html
-
 https://raw.githubusercontent.com/RDFLib/pyLODE/refs/heads/master/examples/ontpub/adms.html
 
 https://raw.githubusercontent.com/zazuko/cube-link/refs/heads/main/constraint.ttl
