@@ -64,3 +64,97 @@ https://proceedings.mlr.press/v235/xu24q.html
 
 Github Search results on Repos related with ontologies.
 https://github.com/search?q=ontologies&type=repositories&p=40
+
+Battery Ontology
+https://emmo-repo.github.io/domain-battery/
+
+Sources for DM
+
+https://proceedings.mlr.press/v235/xu24q.html
+
+https://www.scimagojr.com/
+
+https://portal.core.edu.au/conf-ranks/?search=graph&by=all&source=CORE2023&sort=atitle&page=1
+
+https://service.elsevier.com/app/answers/detail/a_id/15534/supporthub/scopus/#tips
+
+https://www.scopus.com/home.uri
+
+https://www.acm.org/
+
+https://app.avidnote.com/login
+
+https://onlinelibrary.wiley.com/doi/10.1002/aenm.202102702
+
+https://gitlab.kit.edu/lukas.kinder/plannning_with_thing_descriptions_akr3/-/blob/main/WoT-TD/AsRDF/VacuumRobot.ttl?ref_type=heads
+
+https://terminology.hl7.org/5.3.0/ValueSet-v2-0174.ttl
+
+https://opensource.ieee.org/cco/CommonCoreOntologies/-/blob/6ba28cbbb1b3d43c94b3b475a309a407549b148e/src/NickelCadmiumElectricBattery.ttl
+
+https://opensource.ieee.org/cco/CommonCoreOntologies/-/blob/purl-testing/src/NickelMetalHydrideElectricBattery.ttl?ref_type=heads
+
+https://git.code.tecnalia.com/open/enershare/-/blob/main/mappings/pilot5/mapping_pilot5_electric_vehicle_data_csv.ttl?ref_type=heads
+
+https://project-haystack.org/download/defs.ttl
+
+https://terminology.hl7.org/5.3.0/ValueSet-v3-ActClassBattery.ttl
+
+https://owlready2.readthedocs.io/en/latest/onto.html
+
+https://rdflib.dev/pyLODE/examples/ontpub/minimal.html
+
+file:///home/ruidurao/Transfer%C3%AAncias/test_ttl_viewer.html
+
+https://raw.githubusercontent.com/RDFLib/pyLODE/refs/heads/master/examples/ontpub/adms.html
+
+https://raw.githubusercontent.com/zazuko/cube-link/refs/heads/main/constraint.ttl
+
+https://raw.githubusercontent.com/emmo-repo/domain-battery/0.8.0-beta/batteryquantities.ttl
+
+https://raw.githubusercontent.com/emmo-repo/battery-testing-ontology/main/battery-testing-ontology.ttl
+
+https://terminology.hl7.org/5.0.0/CodeSystem-ACR.ttl
+
+http://ontologydesignpatterns.org/ont/metanet/metanetdata.ttl
+
+https://raw.githubusercontent.com/BIG-MAP/BattINFO/refs/heads/master/battinfo.ttl
+
+AI Research Resource
+https://typeset.io/
+
+Conensus AI Research Resource
+https://consensus.app/
+
+https://stanfordnlp.github.io/CoreNLP/openie.html
+
+https://groq.com/
+
+https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+
+https://www.dublincore.org/specifications/dublin-core/dcmi-namespace/
+
+https://www.dublincore.org/specifications/dublin-core/dcmi-namespace/
+
+https://www.dublincore.org/specifications/dublin-core/abstract-model/2007-02-05/
+
+Best Books Ever Dataset
+https://zenodo.org/records/4265096
+https://github.com/scostap/goodreads_bbe_dataset
+
+https://resources.data.gov/resources/dcat-us/
+
+https://www.semantic-web-journal.net/content/morph-kgc-scalable-knowledge-graph-materialization-mapping-partitions
+
+https://blindata.io/blog/2024/ontologies-for-semantic-modeling/
+
+Gephi databases:
+https://github.com/gephi/gephi/wiki/datasets
+
+Papers:
+
+https://arxiv.org/pdf/2111.10083
+
+https://www.ecorys.com/app/uploads/2019/02/DBL_D2.1-DBL-Semantic-Data-Model.pdf
+
+https://gephi.org/publications/gephi-bastian-feb09.pdf
