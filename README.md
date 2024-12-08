@@ -136,6 +136,12 @@ https://www.dublincore.org/specifications/dublin-core/dcmi-namespace/
 
 https://www.dublincore.org/specifications/dublin-core/abstract-model/2007-02-05/
 
+https://yago-knowledge.org/resource/Author?search=percentage
+
+https://raw.githubusercontent.com/HADatAc/ontologies/refs/heads/main/ontology/prms.ttl
+
+https://ontobee.org/search?ontology=GSSO&keywords=percentage&submit=Search+terms
+
 Best Books Ever Dataset
 https://zenodo.org/records/4265096
 https://github.com/scostap/goodreads_bbe_dataset
